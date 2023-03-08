@@ -2,5 +2,6 @@
   "Title01": "Select a form 01 Select a form",
   "HelpText": "The responder accepts all of these forms. Required info differs by form.",
   "Validation": "Select a form to continue",
-  "CheckOut" : "Check out"
+  "CheckOut": "Check out",
+  "ShoppingCart": "Shopping Cart"
 }
