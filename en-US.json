@@ -3,5 +3,7 @@
   "HelpText": "The responder accepts all of these forms. Required info differs by form.",
   "Validation": "Select a form to continue",
   "CheckOut": "Check out",
-  "ShoppingCart": "Shopping Cart"
+  "ShoppingCart": "Shopping Cart",
+  "Payment": "Payment"
+
 }
