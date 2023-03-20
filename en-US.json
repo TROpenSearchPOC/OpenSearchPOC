@@ -6,6 +6,6 @@
   "ShoppingCart": "Shopping Cart",
   "Payment": "Payment",
   "Request": "Request 01",
-  "Responder": "Responder"
-
+  "Responder": "Responder",
+  "Warning" : "Warning message"
 }
