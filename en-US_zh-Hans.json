@@ -1,10 +1,11 @@
 {
-  "Title01": "选择表格 01 选择表格",
-  "HelpText": "响应者接受所有这些表格。所需信息因表格而异。",
-  "Validation": "选择表格以继续",
-  "CheckOut": "退房",
-  "ShoppingCart": "购物车",
-  "Payment": "付款",
-  "Request": "请求 01",
-  "Responder": "响应者"
+  "Title01" : "选择表格 01 选择表格",
+  "HelpText" : "响应者接受所有这些表格。所需信息因表格而异。",
+  "Validation" : "选择表格以继续",
+  "CheckOut" : "退房",
+  "ShoppingCart" : "购物车",
+  "Payment" : "付款",
+  "Request" : "请求 01",
+  "Responder" : "响应者",
+  "Warning" : "警告消息"
 }
